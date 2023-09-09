@@ -1,0 +1,29 @@
+#middle_main{
+    height: 510px;
+    background-image: url(../images/new.png);
+    background-size: cover;
+}
+#middle_main h2{
+    margin-left: 20px;
+    width: 500px;
+}
+#middle_main p{
+    font-size: 19px;
+    height: 90px;
+    margin-left: 20px;
+    width: 500px;
+}
+#middle_main h3{
+    font-size: 30px;
+    margin-left: 20px;
+    width: 500px;
+}
+form{
+    background-color: rgb(246, 212, 167);
+    margin-left: 20px;
+    width: 500px;
+}
+input{
+    text-decoration: none;
+    width: 500px;
+}
